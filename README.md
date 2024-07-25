@@ -8,6 +8,7 @@
 ---
    
 [![Bastor99 stats](https://github-readme-stats.vercel.app/api?username=Bastor99&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats) 
+
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bastor99&layout=compact&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
