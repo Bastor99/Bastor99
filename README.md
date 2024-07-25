@@ -1,11 +1,11 @@
 ## `Hello World`🌎
 ---
-+ ###Me chamo Vitor Bastos Oliveira🙋‍♂️
-+ ###Cursando Desenvolvimento de Software Multiplataforma (**Conclusão em 2026**)📖
-+ ###Buscando cursos de tecnologia💻
-+ ###Possuo inglês avançado🗽
++ ### Me chamo Vitor Bastos Oliveira🙋‍♂️
++ ### Cursando Desenvolvimento de Software Multiplataforma (**Conclusão em 2026**)📖
++ ### Buscando cursos de tecnologia💻
++ ### Possuo inglês avançado🗽
 
-+ ###Minhas estatísticas:
++ ### Minhas estatísticas:
    
 [![Bastor99 stats](https://github-readme-stats.vercel.app/api?username=Bastor99&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
